@@ -1,1 +1,1 @@
-# windows10
+# windows10 設定ファイル
